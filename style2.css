@@ -1,0 +1,82 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    height: 115px;
+    background-color: #962BBB;
+    padding-left: 3px;
+    padding-top: 3px;
+}
+
+header img {
+    height: 110px;
+    width: 115px;
+    border-radius: 100px;
+}
+
+main {
+    background-color: #BD5AE0;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+h1 {
+    color: white;
+    font-size: 17px;
+    text-align: center;
+}
+
+h2 {
+    color: #3D0052;
+    font-size: 19px;
+}
+
+p {
+    color: #3D0052;
+}
+
+ol {
+    color: #3D0052;
+}
+
+footer {
+    height: 55px;
+    background-color: #962BBB;
+    padding-top: 15px;
+}
+
+td {
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #3D0052;
+    margin-right: 40px;
+    background-color: #BD5AE0;
+    padding: 5px;
+    text-align: right;
+}
+
+.raspisanie_raboty{
+    color: white;
+    font-size: 15px;
+}
+
+table {
+    border:1px solid #EEE7DF
+}
+
+.white_lines{
+    border:1px solid white
+}
+
+td {
+    font-size: 15px;
+}
+
+img {
+    height: 260px;
+    width: 550px;
+    padding-left: 10px;
+}
